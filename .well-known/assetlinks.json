@@ -1,8 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "app.netlify.kaleidoscopic_gumdrop_cdacca.twa",
-    "sha256_cert_fingerprints": ["06:1B:F8:70:36:71:7C:5F:18:24:65:C3:70:2F:66:AB:96:EC:ED:EF:E7:A1:D8:9A:FA:B8:17:96:8C:CB:1D:1E"]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.gabigol231214_cloud.twa",
+        "sha256_cert_fingerprints": ["39:6F:A0:23:AA:67:7A:61:7C:96:DB:4C:B1:0A:B7:D8:72:6B:38:CA:16:9F:1F:14:FC:82:19:FE:E1:7B:0F:3C"]
+      }
+    }]
